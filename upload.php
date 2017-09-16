@@ -1,5 +1,5 @@
 <?php
 
-echo "hello", "world";
+echo "第一次使用Github"
 
 ?>
